@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "2682fadecdab9882081068af1604cb16245bd43d759ddb03318537e230d3fd31"
+build_start_time: [1673821896, 142146110]
+build_end_time: [1673821897, 122456073]
+inputs:
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/APIManagerTests/APIManagerTests.swift"
+  : [1673818329, 346912860]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/APIManagerTests/MockURLSession.swift"
+  : [1673818329, 376791000]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SatsResultsMockAPIManager.swift"
+  : [1673819700, 228058338]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SatsResultsViewModelTests.swift"
+  : [1673821895, 853340625]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SchoolListViewModelTests.swift"
+  : [1673818329, 311382770]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SchoolsMockAPIManager.swift"
+  : [1673818329, 330699443]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/_0230112_YvesDukuze_NYCSchoolsTests.swift"
+  : [1673542770, 679926395]

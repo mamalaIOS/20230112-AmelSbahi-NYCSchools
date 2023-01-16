@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "98f88a803a2da8cb13704115b39b51a6013b6c4760f38e16f10824cb8c86aa7e"
+build_start_time: [1673549504, 706491947]
+build_end_time: [1673549504, 792056083]
+inputs:
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/AppDelegate.swift"
+  : !private [1673542767, 669261932]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Constants/APIEndPoints.swift"
+  : !private [1673549502, 709473848]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Model/NYCSchool.swift"
+  : !private [1673549502, 730221748]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Network Layer/APIManager.swift"
+  : !private [1673549502, 691474437]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/SceneDelegate.swift"
+  : !private [1673542767, 677012920]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/ViewModel/NYCSchoolViewModel.swift"
+  : !private [1673549502, 675252914]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/Cells/SchoolTableViewCell.swift"
+  : !private [1673549502, 588741302]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SchoolDetailViewController.swift"
+  : !private [1673549502, 627882242]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SchoolTableViewController.swift"
+  : !private [1673549502, 749310493]

@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "98f88a803a2da8cb13704115b39b51a6013b6c4760f38e16f10824cb8c86aa7e"
+build_start_time: [1673821793, 341575145]
+build_end_time: [1673821795, 705929040]
+inputs:
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/AppDelegate.swift"
+  : [1673542767, 669261932]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Constants/APIEndPoints.swift"
+  : [1673705561, 822916984]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Model/NYCSchool.swift"
+  : [1673637259, 822478771]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Model/NYCSchoolSats.swift"
+  : [1673821792, 993417501]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Network Layer/APIManager.swift"
+  : [1673818535, 385935068]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/SceneDelegate.swift"
+  : [1673542767, 677012920]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/ViewModel/NYCSchoolSatsResultViewModel.swift"
+  : [1673821792, 894886493]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/ViewModel/NYCSchoolViewModel.swift"
+  : [1673821405, 173977136]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/Cells/SchoolTableViewCell.swift"
+  : [1673821792, 878834962]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SATsResultsViewController.swift"
+  : [1673821792, 919387817]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SchoolDetailViewController.swift"
+  : [1673821792, 942015171]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SchoolTableViewController.swift"
+  : [1673821792, 964159965]

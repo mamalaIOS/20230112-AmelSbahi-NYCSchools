@@ -1,0 +1,25 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "2682fadecdab9882081068af1604cb16245bd43d759ddb03318537e230d3fd31"
+build_start_time: [1673622311, 35797119]
+build_end_time: [1673622311, 132194042]
+inputs:
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Model/NYCSchool.swift"
+  : !private [1673564399, 264782428]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Network Layer/APIManager.swift"
+  : !private [1673564399, 240510463]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/ViewModel/NYCSchoolViewModel.swift"
+  : !private [1673564538, 422275066]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchools/Views/SchoolTableViewController.swift"
+  : !private [1673607977, 695617198]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/APIManagerTests/APIManagerTests.swift"
+  : !private [1673601167, 645390510]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/APIManagerTests/MockURLSession.swift"
+  : !private [1673601167, 666737556]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SchoolListViewModelTests.swift"
+  : !private [1673601167, 621146678]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SchoolViewModelTests.swift"
+  : !private [1673601167, 607099533]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/ViewModel/SchoolsMockAPIManager.swift"
+  : !private [1673601167, 711868762]
+  ? "/Users/apple/Documents/Bench/Third Bench/iOS Remote Assignment/NYC Schools/20230112-YvesDukuze-NYCSchools/20230112-YvesDukuze-NYCSchoolsTests/_0230112_YvesDukuze_NYCSchoolsTests.swift"
+  : !private [1673542770, 679926395]
